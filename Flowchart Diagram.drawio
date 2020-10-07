@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T17:50:11.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="OYuhizGAOreu06792FAD" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T17:52:31.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="PBLEbXQJSpYUsglm_WXT" version="13.7.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -225,6 +225,18 @@
         </mxCell>
         <mxCell id="hZAb5yGBT-T0NqIuAjGt-74" value="A" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2038" y="790" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZAb5yGBT-T0NqIuAjGt-77" value="FLOWCHART PROSES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1450" y="60" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hZAb5yGBT-T0NqIuAjGt-78" value="YA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1905" y="400" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hZAb5yGBT-T0NqIuAjGt-79" value="TIDAK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1945" y="715" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hZAb5yGBT-T0NqIuAjGt-81" value="YA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1805" y="720" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
